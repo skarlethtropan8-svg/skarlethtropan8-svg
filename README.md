@@ -13,6 +13,7 @@
   <a href="https://www.linkedin.com/in/skarlett-victoria-tropan-herrera-862047183/"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:skarlethtropan8@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/skarlethtropan8-svg"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://skarlethtropan8-svg.github.io"><img src="https://img.shields.io/badge/Portafolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"/></a>
 </p>
 
 ---
@@ -55,5 +56,6 @@ Práctica profesional y contratación. Módulos ASP.NET WebForms, diseño de BD 
 <p align="center">
   <a href="https://www.linkedin.com/in/skarlett-victoria-tropan-herrera-862047183/"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:skarlethtropan8@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://skarlethtropan8-svg.github.io"><img src="https://img.shields.io/badge/Portafolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"/></a>
 </p>
 <p align="center"><sub>Skarlett Tropan · Desarrolladora de Software · Santiago, Chile</sub></p>
