@@ -40,16 +40,22 @@ También construyo apps móviles nativas con **Kotlin y Jetpack Compose** y fron
 
 | Proyecto | Qué es | Stack | Estado |
 |---|---|---|---|
+| **Módulo de Convenios** · BanCrece | Gestión de convenios de punta a punta: captación, flujo de aprobación por roles (ejecutivo, alianzas, riesgo, legal, operaciones), SLA con semáforos, auditoría y documentos en OneDrive vía Microsoft Graph. *Código privado de la empresa.* | C# · ASP.NET WebForms · SQL Server · Microsoft Graph | 🟢 En producción |
 | [**Level Up Gamer**](https://github.com/skarlethtropan8-svg/level-up-gamer-android) | E-commerce gaming Android con API propia, 3 roles, verificación por correo, pagos y mapas. *Portafolio de título.* | Kotlin · Compose · FastAPI · MySQL | ✅ Publicado |
 | [**SRE Valle del Sol**](https://github.com/skarlethtropan8-svg/sre-valle-del-sol) | Respuesta a emergencias con microservicios, API Gateway, BFF y panel React. *En equipo.* | Java · Spring Boot · Keycloak · React | ✅ Publicado |
 | [**Pastelería Store**](https://github.com/skarlethtropan8-svg/pasteleria-store-android) | App Android con catálogo, carrito, login y perfil. | Kotlin · Compose · Room · Retrofit | ✅ Publicado |
 | [**Pastelería Admin**](https://github.com/skarlethtropan8-svg/pasteleria-admin-react) | Panel web de administración de productos y categorías. | React · AdminLTE · Axios | ✅ Publicado |
-| [**Lifpool Piscinas**](https://github.com/skarlethtropan8-svg/Lifpool-Piscinas) | Gestión de mantenciones de piscinas para un cliente real. | HTML · JavaScript | 🚧 En desarrollo |
+| [**Lifpool Piscinas**](https://github.com/skarlethtropan8-svg/Lifpool-Piscinas) | Gestión de mantenciones de piscinas para un cliente real. | Python · Flask · MySQL | 🚧 En desarrollo |
 
 ## Experiencia
 
-**Analista Programadora — BanCrece** · Santiago · 2026
-Práctica profesional y contratación. Módulos ASP.NET WebForms, diseño de BD en SQL Server, migración a PostgreSQL, ETL en Python y gestión de tareas en Jira.
+**Analista Programadora — BanCrece** · Santiago · Abril – Septiembre 2026
+Desarrollo y mantención de la intranet corporativa y sus módulos de negocio, diseño de bases de datos y automatización de procesos de datos.
+
+- **Módulo de Convenios:** refactoricé el módulo en ASP.NET WebForms (C#) y su capa de datos, con guardado transaccional sobre siete tablas relacionadas y trazabilidad del seguimiento.
+- **Diseño de base de datos:** modelo en SQL Server para convenios, seguimiento y tiempos SLA con semáforos, con historial de transiciones para auditoría.
+- **Intranet y comunicaciones:** gestión de contactos de prospectos, correos por SMTP y mensajes de WhatsApp, plantillas de mailing con registro de envíos y menús de informes BI configurables desde la base de datos.
+- **Datos y automatización:** proceso ETL en Python y Selenium con cargas incrementales sin duplicados hacia el data warehouse, y participación en la migración de SQL Server a PostgreSQL.
 
 ## Contacto
 
