@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="banner.png" alt="Skarlett Tropan — Desarrolladora Full-Stack Jr" width="100%"/>
+  <img src="banner.png" alt="Skarlett Tropan — Desarrolladora de Software" width="100%"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack-8B5CF6?style=for-the-badge" alt="Full-Stack"/> <img src="https://img.shields.io/badge/Backend_y_Datos-111111?style=for-the-badge" alt="Backend y Datos"/> <img src="https://img.shields.io/badge/Santiago,_Chile-111111?style=for-the-badge" alt="Santiago, Chile"/>
 </p>
 
-<h3 align="center">Desarrolladora Full-Stack Jr · C# · Python · SQL · Kotlin · React</h3>
-<p align="center">Analista programadora. Sistemas internos, datos y automatización con foco en calidad.</p>
+<h3 align="center">Desarrolladora de Software · Full-Stack · Backend · Datos</h3>
+<p align="center">Construyo sistemas de punta a punta: APIs y lógica de negocio, bases de datos, automatización e interfaces web y móviles.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/skarlett-victoria-tropan-herrera-862047183/"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -23,7 +23,7 @@ Soy **Skarlett Tropan**, desarrolladora de software en Santiago, Chile. Técnico
 
 En **BanCrece**, cooperativa de ahorro y crédito, desarrollé módulos web en **ASP.NET WebForms (C#)**, diseñé bases de datos en **SQL Server**, participé en una migración a **PostgreSQL** y automaticé procesos ETL con **Python**.
 
-También construyo apps móviles nativas con **Kotlin y Jetpack Compose** y frontends en **React**. Busco oportunidades **híbridas o remotas** como desarrolladora Full-Stack o Backend Jr.
+También construyo apps móviles nativas con **Kotlin y Jetpack Compose** y frontends en **React**. Busco oportunidades **híbridas o remotas** como desarrolladora de software, en roles Full-Stack o Backend.
 
 ## Stack
 
@@ -56,4 +56,4 @@ Práctica profesional y contratación. Módulos ASP.NET WebForms, diseño de BD 
   <a href="https://www.linkedin.com/in/skarlett-victoria-tropan-herrera-862047183/"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:skarlethtropan8@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-<p align="center"><sub>Skarlett Tropan · Santiago, Chile · Full-Stack · Backend · Datos</sub></p>
+<p align="center"><sub>Skarlett Tropan · Desarrolladora de Software · Santiago, Chile</sub></p>
